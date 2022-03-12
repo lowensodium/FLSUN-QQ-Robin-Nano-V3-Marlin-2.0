@@ -1,6 +1,7 @@
 # FLSUN-QQ-Robin-Nano-v3-Marlin-2.0.X
 ## Marlin 2.0.X firmware for use on a MKS Robin Nano v3 board in an FLSUN QQ 3d printer
 
+The compiled released firmware is for using TMC2209 drivers in UART Mode
 
 This firmware is currently based on Marlin bugfix-2.0.x Mar 10, 2022 nightly
 
