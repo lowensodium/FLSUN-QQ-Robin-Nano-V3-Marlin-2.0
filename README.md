@@ -11,7 +11,6 @@ Auto Leveling works using the conductive nozzel as a ZMIN stop.  You will need t
 
 ##### Known issuses:
 
-- Feedrate for loading needs to be increased (takes a long time to load bowden tube)
 - Filliment feedrate durring prints has not be calibrated and I think it might be slightly too high
 - Encoder is a little squirelly
   
